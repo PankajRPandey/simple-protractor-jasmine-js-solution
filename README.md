@@ -1,16 +1,17 @@
-## SIMPLE-PROTRACTOR-JASMINE-FRAMEWORK
+## SIMPLE PROTRACTOR JASMINE FRAMEWORK
 ### A simple test framework with reporting and multiple environment support
 
-## To execute test -
-
-### Download all the dependencies (This will be done once)
+## TO EXECUTE THE TEST -
+### DOWNLOAD ALL THE DEPENDENCIES (THIS WILL BE DONE ONCE)
 ```npm install```
 
-### Update and start webdriver server
+### UPDATE AND START WEBDRIVER SERVER
+#### Update script (wd:update) in the package.json will download the required browser drivers (This will be done once)
 ```npm run wd:update```
+#### Start script (wd:start) will start the Selenium server
 ```npm run wd:start```
 
-### And then run specs in the specific environment (say, test)
+### AND THEN RUN SPECS IN THE SPECIFIC ENVIRONMENT (SAY, TEST)
 ```npm run specs:test```
 
-### Reports can be located at reports/htmlreport/report.html
+### REPORTS CAN BE LOCATED AT reports/htmlreport/report.html
