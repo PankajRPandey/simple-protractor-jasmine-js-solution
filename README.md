@@ -1,5 +1,5 @@
-## SIMPLE PROTRACTOR JASMINE FRAMEWORK
-### A simple UI testing framework with reporting and multiple environment support
+## SIMPLE PROTRACTOR JASMINE SOLUTION
+### A simple UI testing solution with reporting and multiple environment support
 
 ## TO EXECUTE THE TEST -
 ### DOWNLOAD ALL THE DEPENDENCIES (THIS WILL BE DONE ONCE)
