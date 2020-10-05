@@ -1,5 +1,19 @@
-## SIMPLE PROTRACTOR JASMINE SOLUTION
-### A simple UI testing solution with reporting and multiple environment support
+<h1 align="center">
+
+SIMPLE PROTRACTOR JASMINE SOLUTION
+</h1>
+<h2 align="center">A simple UI testing solution with reporting and multiple environment support </h2>
+
+
+<h1 align="center">
+  <br> 
+  
+  Environment+Data Configuration
+  <br>
+  <br>
+  <img src="docs\images\Protractor-Jasmine-JS-Solution-Env-Config.png" alt="Environment+Data Configuration" width="800">
+
+</h1>
 
 ## TO EXECUTE THE TEST -
 ### DOWNLOAD ALL THE DEPENDENCIES (THIS WILL BE DONE ONCE)
