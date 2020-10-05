@@ -7,10 +7,10 @@ console.log(ENV);
 var url = envConfig.url;
 var greetingUser = envConfig.hp.greetingName;
 
-describe('Env : '+ENV+' - angularjs homepage', function() {
-  it('should greet the named user', function() {
+describe('Env : ' + ENV + ' - angularjs homepage', function () {
+  it('should greet the named user', function () {
     angularHomepage.get(url);
     angularHomepage.setName(greetingUser);
-    expect(angularHomepage.getGreetingText()).toEqual('Hello '+greetingUser+'!');
+    expect(angularHomepage.getGreetingText()).toEqual('Hello ' + greetingUser + '!');
   });
 });
