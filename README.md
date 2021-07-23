@@ -4,6 +4,7 @@ SIMPLE PROTRACTOR JASMINE SOLUTION
 </h1>
 <h2 align="center">A simple UI testing solution with reporting and multiple environment support </h2>
 
+<h2>Please note that the Angular team plans to end development of Protractor at the end of 2022</h2>
 
 <h1 align="center">
   <br> 
